@@ -1,4 +1,4 @@
-This container is a builder and submitter for [Pyleus]() Storm topologies. It can be used either with vanilla Docker or fig to turn a Pyleus topology into a packaged `.jar` file, or to submit said `.jar` to a Storm cluster.
+This container is a builder and submitter for [Pyleus](https://yelp.github.io/pyleus/) Storm topologies. It can be used either with vanilla Docker or fig to turn a Pyleus topology into a packaged `.jar` file, or to submit said `.jar` to a Storm cluster.
 This package is intended to be used if you don't wish to install Storm natively.
 
 ## Docker Usage
